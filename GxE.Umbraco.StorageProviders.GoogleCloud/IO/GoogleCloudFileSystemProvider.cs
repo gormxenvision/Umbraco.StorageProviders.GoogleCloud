@@ -5,7 +5,7 @@ using System.Collections.Concurrent;
 using Umbraco.Cms.Core.Hosting;
 using Umbraco.Cms.Core.IO;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO
+namespace GxE.Umbraco.StorageProviders.GoogleCloud.IO
 {
     public sealed class GoogleCloudFileSystemProvider : IGoogleCloudFileSystemProvider
     {

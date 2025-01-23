@@ -2,9 +2,9 @@
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Options;
 using Umbraco.Cms.Core.DependencyInjection;
-using GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO;
+using GxE.Umbraco.StorageProviders.GoogleCloud.IO;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud.DependencyInjection
+namespace GxE.Umbraco.StorageProviders.GoogleCloud.DependencyInjection
 {
     /// <summary>
     /// Extension methods to help registering Google Cloud Storage file systems.

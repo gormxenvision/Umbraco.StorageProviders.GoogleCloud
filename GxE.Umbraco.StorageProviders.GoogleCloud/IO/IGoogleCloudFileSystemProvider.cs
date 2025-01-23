@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO
+namespace GxE.Umbraco.StorageProviders.GoogleCloud.IO
 {
     /// <summary>
     /// The Google Cloud file system provider.

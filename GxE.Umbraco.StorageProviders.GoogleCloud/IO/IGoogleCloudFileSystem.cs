@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Umbraco.Cms.Core.IO;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO
+namespace GxE.Umbraco.StorageProviders.GoogleCloud.IO
 {
     public interface IGoogleCloudFileSystem : IFileSystem
     {

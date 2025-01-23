@@ -1,16 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Authors>GORM Agency A/S - Edmond Etemi</Authors>
-    <Company>GORM Agency A/S</Company>
-    <PackageProjectUrl>https://github.com/gormagency/GORMAgency.Umbraco.StorageProviders.GoogleCloud</PackageProjectUrl>
+    <Authors>Edmond Etemi</Authors>
+    <Company>GORM x ENVISION</Company>
+    <PackageProjectUrl>https://github.com/gormagency/Umbraco.StorageProviders.GoogleCloud</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/gormagency/GORMAgency.Umbraco.StorageProviders.GoogleCloud</RepositoryUrl>
+    <RepositoryUrl>https://github.com/gormagency/Umbraco.StorageProviders.GoogleCloud</RepositoryUrl>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
@@ -28,7 +28,7 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Cloud.Storage.V1" Version="4.1.0" />
-    <PackageReference Include="Umbraco.Cms.Web.Common" Version="10.2.0" />
+    <PackageReference Include="Umbraco.Cms.Web.Common" Version="14.3.2" />
   </ItemGroup>
 
 </Project>

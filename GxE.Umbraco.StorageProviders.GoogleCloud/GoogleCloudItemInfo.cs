@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.FileProviders;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud
+namespace GxE.Umbraco.StorageProviders.GoogleCloud
 {
     /// <summary>
     /// Represents an Google Cloud Storage item.

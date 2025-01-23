@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO
+namespace GxE.Umbraco.StorageProviders.GoogleCloud.IO
 {
     public sealed class GoogleCloudFileSystemOptions
     {

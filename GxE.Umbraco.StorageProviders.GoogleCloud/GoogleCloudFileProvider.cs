@@ -4,9 +4,9 @@ using Google.Cloud.Storage.V1;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Primitives;
 using System.Net;
-using GORMAgency.Umbraco.StorageProviders.GoogleCloud.IO;
+using GxE.Umbraco.StorageProviders.GoogleCloud.IO;
 
-namespace GORMAgency.Umbraco.StorageProviders.GoogleCloud
+namespace GxE.Umbraco.StorageProviders.GoogleCloud
 {
     public sealed class GoogleCloudFileProvider : IFileProvider
     {
