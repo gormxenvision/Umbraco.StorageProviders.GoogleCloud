@@ -1,0 +1,23 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "Title": "Umbraco Google Cloud Storage Provider",
+    "Category": "Developer Tools",
+    "PackageType": "Package",
+    "Tags": [
+        "googlecloud",
+        "storage"
+    ],
+    "LicenseTypes": ["Free"],
+    "AuthorDetails": {
+        "Url": "https://www.gxe.dk",
+        "ImageUrl": "https://avatars.githubusercontent.com/u/5519033",
+        "Description": "The power of tech and creativity",
+        "Contributors": [
+            {
+                "Name": "Edmond Etemi"
+            }
+        ]
+    },
+    "IssueTrackerUrl": "https://github.com/gormxenvision/Umbraco.StorageProviders.GoogleCloud/issues",
+    "DiscussionForumUrl": "https://github.com/gormxenvision/Umbraco.StorageProviders.GoogleCloud/discussions"
+}
