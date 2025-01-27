@@ -7,16 +7,19 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Edmond Etemi</Authors>
     <Company>GORM x ENVISION</Company>
-    <PackageProjectUrl>https://github.com/gormagency/Umbraco.StorageProviders.GoogleCloud</PackageProjectUrl>
-    <PackageIcon>icon.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/gormxenvision/Umbraco.StorageProviders.GoogleCloud</PackageProjectUrl>
+    <PackageIcon>5519033.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/gormagency/Umbraco.StorageProviders.GoogleCloud</RepositoryUrl>
+    <RepositoryUrl>https://github.com/gormxenvision/Umbraco.StorageProviders.GoogleCloud</RepositoryUrl>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>Umbraco Google Cloud Storage Provider</Title>
+    <PackageTags>umbraco-marketplace;umbraco;googlecloud;storageprovider;</PackageTags>
+    <Description>Umbraco storage provider that can replace the default physical file storage.</Description>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\icon.png">
+    <None Include="..\..\..\..\Users\ee\Downloads\5519033.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
