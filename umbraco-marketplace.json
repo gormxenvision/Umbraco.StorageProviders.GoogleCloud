@@ -9,6 +9,7 @@
     ],
     "LicenseTypes": ["Free"],
     "AuthorDetails": {
+	"Name": "GORM x ENVISION A/S",
         "Url": "https://www.gxe.dk",
         "ImageUrl": "https://avatars.githubusercontent.com/u/5519033",
         "Description": "The power of tech and creativity",
